@@ -1,12 +1,12 @@
 title: Bryan Rickens 
 logo: "/images/logo.jpg?raw=true" 
-description: > 
-A nontraditional student of Data Science at the College of Charleston making the most out of my unique background after having previously worked in the manufacturing industry for many years.
-For more information on my journey, you can read about it <a href="https://today.cofc.edu/2022/11/08/cofc-center-for-academic-performance-and-persistence//">here</a> in an article published by The College Today. 
+description: A nontraditional student of Data Science at the College of Charleston making the most out of my unique background after having previously worked in the manufacturing industry for many years. For more information on my journey, you can read about it <a href="https://today.cofc.edu/2022/11/08/cofc-center-for-academic-performance-and-persistence//">here</a> in an article published by The College Today. 
   <br><br>
   This portfolio is dedicated to the various data science projects I have completed throughout my time as a student. 
   <br><br>
   <a href="https://www.linkedin.com/in/bryanrickens/">View My LinkedIn Profile</a> 
-  
-theme: jekyll-theme-minimal
+ 
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 

@@ -10,7 +10,7 @@
 Research conducted in the College's Data Mining and Connectivity lab with Dr. Navid Hashemi. 
 An environmental studies project with applications in machine learning surrounding the construction of a model used to correlate and predict land surface temperatures between household UAV drones and the Landsat sattelite system.
 
-To see as step-by-step walkthrough of the project (from pre-processing to model construction), click the Notebook link above.
+To see as step-by-step walkthrough of the project (from pre-processing to model construction), click the Notebook link above. To read the full paper, click [here](Notebooks/TowardsHighResolution.pdf).
 
  
 <img src="images/landsat.png?raw=true"/>
